@@ -1,1 +1,14 @@
-this is 2nd file
+
+function fetchdata(callback) {   //callback
+    
+    console.log("fetching data...");
+
+    setTimeout(()=> {
+        console.log("data received !....");
+        callback();
+    } ,4000); 
+}
+function processdata() {
+    console.log("processing data...");
+}
+fetchdata(processdata);
