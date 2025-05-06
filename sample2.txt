@@ -1,1 +1,2 @@
-This is Harini velu , working in sutherlandglobal.com
+
+console.log(`Title: ${this.Title} , Author : ${this.Author}`)
