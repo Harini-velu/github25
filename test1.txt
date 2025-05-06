@@ -12,7 +12,7 @@ class Book {
       console.log(`${this.Title} is a great Book to read!`)
   }
 }
-const Book1 = new Book("Harry Potter", "J.K.Rowling");  // ctrl+a alt+shift +f
+const Book1 = new Book("Harry Potter", "Sri");  // ctrl+a alt+shift +f
 const Book2= new Book ("Harry Potter");
 Book1.details();
 Book2.read();
