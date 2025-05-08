@@ -13,6 +13,6 @@ console.log(a2);
 
 
 //Constant Concept
-const c1 = "java";
+const c1 = "javascript";
 console.log(c1);
 
