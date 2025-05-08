@@ -13,6 +13,6 @@ console.log(a2);
 
 
 //Constant Concept
-const c1 = "playwright";
+const c1 = "java";
 console.log(c1);
 
