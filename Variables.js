@@ -1,4 +1,4 @@
-var a=10;     // variable concept  non primitive datatypes
+var a=20;     // variable concept  non primitive datatypes
 var b=20;
 var c= 30;
 var d=a+b+c;
